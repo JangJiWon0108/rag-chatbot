@@ -1,4 +1,6 @@
 ﻿# 소득세 정보를 알려주는 챗봇 서비스
+
+노션 링크 : https://loving-maple-4c3.notion.site/RAG-LLM-Application-feat-LangChain-cbae002cf30b490fbaf1737bf02744e0?pvs=4
 1. LangChain과 Pinecone를이용한 RAG 구성
 2. Retrieval 개선을 위한 데이터 전처리
 3. Retrieval 개선을 위한 키워드 사전 활용
